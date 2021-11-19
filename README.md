@@ -6,10 +6,18 @@ Physical or creative, I didn't grow up with circuits like coding or arduino. So 
 **_⭐️Don't worry! just keep trying and asking to work! You can do it, too!_**
 
 ---
-#### *💡ARDUINO, what several circuits are connected to make light 🔑 SOCIAL NETWORKING ALGORITHMS, what multiple internet networks are connected to give result to users*
+#### *💡ARDUINO, what several circuits are connected to make light 🔑 SOCIAL MEDIA ALGORITHMS, what multiple internet networks are connected to give result to users*
 
 ![networking](https://user-images.githubusercontent.com/94651916/142575868-ab2110b5-fc82-469f-bfe4-ee6a4e26439d.jpg)
->>>As I learned Arduino, I noticed the connection, combination, and results of circuits and circuits. Several circuits were fixed to each position and could feel the step of connecting along the flow. I was very interested in this trend, and through this connection, a social network emerged.
+>>>As I learned Arduino, I noticed the connection, combination, and results of circuits and networking. Several circuits were fixed to each position and could feel the step of connecting along the flow. I was very interested in this trend, and through this connection, a social media emerged.
+
+## What is social media?
++ Interactive computer-mediated technologies
++ Virtual communities
++ Networks
++ Sharing of information
+
+Most people think of Instagram, Twitter, ect. It is right, but social media refers to open online content that is used to share one's thought, opinions, experiences, and perspectives.
 
 ## Uses of social media
 + Social networking🔑🔑
@@ -21,14 +29,6 @@ Physical or creative, I didn't grow up with circuits like coding or arduino. So 
 + Social book-marking
 + Podcasts
 + Online chattting
-
-## What is social media?
-+ Interactive computer-mediated technologies
-+ Virtual communities
-+ Networks
-+ Sharing of information
-
-Most people think of Instagram, Twitter, ect. It is right, but social media refers to open online content that is used to share one's thought, opinions, experiences, and perspectives.
 
 ## Research & Reference
 #### * The Social Dilemma
