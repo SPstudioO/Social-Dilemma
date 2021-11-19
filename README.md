@@ -27,8 +27,9 @@ Most people think of Instagram, Twitter, ect. It is right, but social media refe
 
 ![1](https://user-images.githubusercontent.com/94651916/142577061-426c3759-b971-4ab3-a5b3-1852a0775577.gif)
 
-![2](https://user-images.githubusercontent.com/94651916/142576878-be5c05cd-9d43-4c38-8f09-72800c07b283.gif)
 
+![2](https://user-images.githubusercontent.com/94651916/142576878-be5c05cd-9d43-4c38-8f09-72800c07b283.gif)
+> https://github.com/SPstudioO/Social-Dilemma/issues/2#issue-1058191478
 
 ## Reflection
 I had a lot of anxiety about this week's class topic before class. This is because I already knew that coding is a very difficult field. Nevertheless, I continued to study and approach reading courses. It was also fun to experience something new, and I was able to fall into arduino rather than my expectations before class. And I found it important to expand and combine with creative computing more than just mechanical computer coding. So I designed in combination with the elements that came to mind during the class, and I became interested in other ways of computing by comparing them with other people's results.
