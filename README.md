@@ -41,7 +41,7 @@ Unlimited use / Freedom of expression / Information acquisition / Relationships
 Lack of sleep / Digital footprints / Internet addiction / Cyber bullying
 
 ---
-## Outcomes (Gif.file)
+## Outcomes (Gif.file)-If the images not working, you can click to watch
 > The first one I mentioned, the Creative Computing were made by combining features such as connecting circuits, networking of social media, and algorithms.
 
 ![1](https://user-images.githubusercontent.com/94651916/142582019-8cbe8e98-5755-435f-b350-840bb30eb9bc.gif)
