@@ -1,21 +1,18 @@
 # Social-Dilemma
 ###### SIYEON PARK
 
-#### *💡ARDUINO, what several circuits are connected to make light 🔑 SOCIAL MEDIA ALGORITHMS, what multiple internet networks are connected to give result to users*
+Physical or creative, I didn't grow up with circuits like coding or arduino. So I'm a person who feels incredibly unfamiliar with these engineering things. Creative computing is a difficult and large field, and it took a lot of time to learn circuits. **Just keep in mind** that you have to experiment constantly. 
+
+**_⭐️Don't worry! just keep trying and asking to work! You can do it, too!_**
+
 ---
+#### *💡ARDUINO, what several circuits are connected to make light 🔑 SOCIAL NETWORKING ALGORITHMS, what multiple internet networks are connected to give result to users*
 
 ![networking](https://user-images.githubusercontent.com/94651916/142575868-ab2110b5-fc82-469f-bfe4-ee6a4e26439d.jpg)
->>>
-## What is social media?
-+ Interactive computer-mediated technologies
-+ Virtual communities
-+ Networks
-+ Sharing of information
-
-Most people think of Instagram, Twitter, ect. It is right, but social media refers to open online content that is used to share one's thought, opinions, experiences, and perspectives.
+>>>As I learned Arduino, I noticed the connection, combination, and results of circuits and circuits. Several circuits were fixed to each position and could feel the step of connecting along the flow. I was very interested in this trend, and through this connection, a social network emerged.
 
 ## Uses of social media
-+ Social networking
++ Social networking🔑🔑
 + Messages boards
 + Social knowledge
 + Multimedia
@@ -24,6 +21,14 @@ Most people think of Instagram, Twitter, ect. It is right, but social media refe
 + Social book-marking
 + Podcasts
 + Online chattting
+
+## What is social media?
++ Interactive computer-mediated technologies
++ Virtual communities
++ Networks
++ Sharing of information
+
+Most people think of Instagram, Twitter, ect. It is right, but social media refers to open online content that is used to share one's thought, opinions, experiences, and perspectives.
 
 ## Research & Reference
 #### * The Social Dilemma
@@ -36,8 +41,8 @@ Unlimited use / Freedom of expression / Information acquisition / Relationships
 Lack of sleep / Digital footprints / Internet addiction / Cyber bullying
 
 ---
-## Outcomes
-> The first one I mentioned, the results were made by combining features such as connecting circuits, networking of social media, and algorithms.
+## Outcomes (Gif.file)
+> The first one I mentioned, the Creative Computing were made by combining features such as connecting circuits, networking of social media, and algorithms.
 
 ![1](https://user-images.githubusercontent.com/94651916/142582019-8cbe8e98-5755-435f-b350-840bb30eb9bc.gif)
 > https://github.com/SPstudioO/Social-Dilemma/issues/3#issue-1058193202
