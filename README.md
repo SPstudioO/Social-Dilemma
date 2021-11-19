@@ -26,7 +26,10 @@ Most people think of Instagram, Twitter, ect. It is right, but social media refe
 + Online chattting
 
 ![1](https://user-images.githubusercontent.com/94651916/142577061-426c3759-b971-4ab3-a5b3-1852a0775577.gif)
+> https://github.com/SPstudioO/Social-Dilemma/issues/3#issue-1058193202
 
+![3](https://user-images.githubusercontent.com/94651916/142578282-38df6663-e17c-46eb-b56f-de1a784949eb.gif)
+> 
 
 ![2](https://user-images.githubusercontent.com/94651916/142576878-be5c05cd-9d43-4c38-8f09-72800c07b283.gif)
 > https://github.com/SPstudioO/Social-Dilemma/issues/2#issue-1058191478
