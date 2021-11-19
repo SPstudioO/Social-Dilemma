@@ -25,8 +25,7 @@ Most people think of Instagram, Twitter, ect. It is right, but social media refe
 + Podcasts
 + Online chattting
 
-![1](https://user-images.githubusercontent.com/94651916/142576696-de17b90c-04db-4c7f-91f9-485e2da6fae2.gif)
-
+![1](https://user-images.githubusercontent.com/94651916/142577061-426c3759-b971-4ab3-a5b3-1852a0775577.gif)
 
 ![2](https://user-images.githubusercontent.com/94651916/142576878-be5c05cd-9d43-4c38-8f09-72800c07b283.gif)
 
